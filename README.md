@@ -1,4 +1,4 @@
-# Help Prospect Heights!
+# Help Greenpoint!
 
 **CONTRIBUTIONS WELCOME**, both in terms of content and design/features.
 

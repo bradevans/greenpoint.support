@@ -1,47 +1,34 @@
 ---
-title: Help Prospect Heights
 ---
 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-22036475-4"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "UA-22036475-4");
-    </script>
 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Help Prospect Heights!</title>
+    <title>{{ site.title }}</title>
     <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css" />
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Yellowtail" />
 
-    <meta property="og:site_name" content="Help Prospect Heights!" />
+    <meta property="og:site_name" content="Help Greenpoint!" />
     <meta property="og:title" content="A directory of local businesses and how to support them in this time of need" />
     <meta property="og:description" content="Links and instructions for ordering pick-up and delivery, phone numbers, hours of operations, etc." />
-    <meta property="og:url" content="https://prospectheightsbk.com" />
-    <meta property="og:image" content="https://prospectheightsbk.com/grand-army-plaza.jpg" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:image" content="{{ site.url }}/resources/greenpoint.jpg" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_US" />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="resources/apple-touch-icon.png" />
+    <link rel="icon" type="image/x-icon" href="resources/favicon.ico" />
     <link rel="manifest" href="/site.webmanifest" />
   </head>
   <body class="w-100 sans-serif bg-black-10 code">
     <main class="black-70 mh5-ns mh2-m mh2">
-      <h1 class="f1 lh-title tc yellowtail green">Help Prospect Heights!</h1>
+      <h1 class="f1 lh-title tc yellowtail green">Help Greenpoint!</h1>
       <p class="f5 lh-copy tc">
-        Things are moving fast – please follow each business on Instagram for their latest updates.
+        Things are moving fast — please follow each business on Instagram for their latest updates.
       </p>
       <p class="f7 lh-copy tc">
         <strong>We need your help to keep this information accurate and comprehensive!</strong> <a href="https://forms.gle/qZbcqvoWaNKjZExt7">Please contribute corrections or additions</a>.
@@ -58,9 +45,9 @@ title: Help Prospect Heights
             <div class="f4 lh-copy mv0 pa0 ttu">
               {% if place.url %}
               <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
-              place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="icons/instagram.png"/></a>{%
+              place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="resources/icons/instagram.png"/></a>{%
               endif %} {% if place.untappd %}<a class="v-mid" href="{{ place.untappd }}"
-                ><img style="width: 25px;" src="icons/untappd.png"/></a
+                ><img style="width: 25px;" src="resources/icons/untappd.png"/></a
               >{% endif %}
             </div>
             {% if place.phone %}
@@ -73,19 +60,19 @@ title: Help Prospect Heights
             </div>
             <div class="mb1">
               {% if place.delivery.caviar %}
-              <a href="{{ place.delivery.caviar }}"><img class="delivery_icon" src="icons/caviar.png"/></a>
+              <a href="{{ place.delivery.caviar }}"><img class="delivery_icon" src="resources/icons/caviar.png"/></a>
               {% endif %} {% if place.delivery.chownow %}
-              <a href="{{ place.delivery.chownow }}"><img class="delivery_icon" src="icons/chownow.png"/></a>
+              <a href="{{ place.delivery.chownow }}"><img class="delivery_icon" src="resources/icons/chownow.png"/></a>
               {% endif %} {% if place.delivery.doordash%}
-              <a href="{{ place.delivery.doordash }}"><img class="delivery_icon" src="icons/doordash.jpg"/></a>
+              <a href="{{ place.delivery.doordash }}"><img class="delivery_icon" src="resources/icons/doordash.jpg"/></a>
               {% endif %} {% if place.delivery.postmates%}
-              <a href="{{ place.delivery.postmates }}"><img class="delivery_icon" src="icons/postmates.jpg"/></a>
+              <a href="{{ place.delivery.postmates }}"><img class="delivery_icon" src="resources/icons/postmates.jpg"/></a>
               {% endif %} {% if place.delivery.seamless %}
-              <a href="{{ place.delivery.seamless }}"><img class="delivery_icon" src="icons/seamless.png"/></a>
+              <a href="{{ place.delivery.seamless }}"><img class="delivery_icon" src="resources/icons/seamless.png"/></a>
               {% endif %} {% if place.delivery.uber_eats %}
-              <a href="{{ place.delivery.uber_eats }}"><img class="delivery_icon" src="icons/uber_eats.png"/></a>
+              <a href="{{ place.delivery.uber_eats }}"><img class="delivery_icon" src="resources/icons/uber_eats.png"/></a>
               {% endif %} {% if place.delivery.upserve %}
-              <a href="{{ place.delivery.upserve }}"><img class="delivery_icon" src="icons/upserve.png"/></a>
+              <a href="{{ place.delivery.upserve }}"><img class="delivery_icon" src="resources/icons/upserve.png"/></a>
               {% endif %}
             </div>
 
@@ -110,10 +97,10 @@ title: Help Prospect Heights
             <div class="f4 lh-copy mv0 pa0 ttu">
               {% if place.url %}
               <a class="link dim dark-blue" href="{{ place.url }}">{{ place.name }}</a>{% else %} {{ place.name }} {% endif %} {% if
-              place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="icons/instagram.png" /></a>{% endif %} {% if place.untappd %}<a
+              place.instagram %}<a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="resources/icons/instagram.png" /></a>{% endif %} {% if place.untappd %}<a
                 class="v-mid"
                 href="{{ place.untappd }}"
-                ><a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="icons/untappd.png"/></a
+                ><a class="v-mid" href="{{ place.instagram }}"><img style="width: 25px;" src="resources/icons/untappd.png"/></a
               >{% endif %}
             </div>
             {% if place.notes %}
@@ -132,13 +119,13 @@ title: Help Prospect Heights
         <div class="w-100 mv3">
           <h1 class="f5 lh-copy tc"><a href="https://www.instagram.com/nyhospcoalition/">@nyhospcoalition</a>&#32;&bull;&#32;<a href="https://www.instagram.com/save_brooklyn/">@save_brooklyn</a>&#32;&bull;&#32;<a href="https://www.instagram.com/explore/tags/savebrooklyn/">#savebrooklyn</a></h1>
           <p class="f7 lh-copy tc">
-            This site is <a href="https://github.com/irace/prospectheightsbk.com">open source</a> and would love your contributions!
+            This site is <a href="{{ site.github.repo }}">open source</a> and would love your contributions!
           </p>
         </div>
       </div>
     </main>
 
-    <a href="https://github.com/irace/prospectheightsbk.com" class="github-corner" aria-label="View source on GitHub"
+    <a href="{{ site.github.repo }}" class="github-corner" aria-label="View source on GitHub"
       ><svg
         width="80"
         height="80"

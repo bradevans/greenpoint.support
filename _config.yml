@@ -1,14 +1,4 @@
-# Setup
-title: Help Prospect Heights
-url: http://irace.me/prospect-heights
-
-# Custom vars
+title: Help local Greenpoint businesses
+url: https://greenpoint.support
 github:
-  repo: https://github.com/irace/prospect-heights
-
-sass:
-  # Where you keep your scss files
-  sass_dir: /
-  # Where SASS should look for other SCSS
-  load_paths:
-    - node_modules/
+  repo: https://github.com/hallee/greenpoint.support
