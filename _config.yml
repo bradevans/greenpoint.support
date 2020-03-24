@@ -2,3 +2,9 @@ title: Help local Greenpoint businesses
 url: https://greenpoint.support
 github:
   repo: https://github.com/hallee/greenpoint.support
+sass:   
+  # Where you keep your scss files   
+  sass_dir: /    
+  # Where SASS should look for other SCSS    
+  load_paths:    
+    - node_modules/
