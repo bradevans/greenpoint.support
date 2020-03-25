@@ -150,6 +150,15 @@ closed:
         url: https://www.gofundme.com/f/diamond-bartenders-assistance
     last_updated: 3/24
 
+  - name: Elder Greene
+    url: https://eldergreene.com
+    notes: Closed until further notice
+    instagram: https://www.instagram.com/eldergreenebk
+    links:
+      - url: https://www.gofundme.com/f/vortex-hospitality-staff-fund?sharetype=teams&member=3960482&utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=cdea325f279041b58fe1f293c8c4c660
+        title: Staff relief fund
+    last_updated: 3/20
+
   - name: Esme
     instagram: https://www.instagram.com/esmebk/
     url: https://www.esmebk.com
@@ -225,3 +234,12 @@ closed:
       - url: https://www.gofundme.com/f/elsa-ramona-staff-support
         title: Staff relief fund
     last_updated: 3/19
+
+  - name: Tørst
+    url: http://www.torstnyc.com
+    notes: Closed until further notice
+    instagram: https://www.instagram.com/torst_nyc/
+    links:
+      - url: https://www.gofundme.com/f/trst-team-donation
+        title: Staff relief fund
+    last_updated: 3/18
