@@ -38,6 +38,19 @@ open:
     phone: 347-725-3061
     last_updated: 3/24
 
+  - name: Maman
+    url: https://www.mamannyc.com
+    instagram: https://www.instagram.com/_mamannyc_/
+    phone: (347) 689-9195
+    hours: 8am - 3pm
+    notes: Take-out & delivery available for a limited time
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/C1DAHQ68VJBQ8/order
+      - url: https://www.mamannyc.com/checkout/donate?donatePageId=5e728806a28bbd060ea6698d
+        title: Staff relief fund
+    last_updated: 3/24
+
   - name: Paulie Gee’s Slice Shop
     url: https://pauliegee.com/slice-shop/
     instagram: https://www.instagram.com/pauliegees_sliceshop/
@@ -172,6 +185,15 @@ closed:
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/dzxdt-le-fanfare-team
+    last_updated: 3/24
+
+  - name: Littleneck Outpost
+    url: http://www.littleneckop.com
+    instagram: https://www.instagram.com/littleneck_nyc/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://venmo.com/code?user_id=1698369093238784988
     last_updated: 3/24
 
   - name: Oxomoco
