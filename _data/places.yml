@@ -1,14 +1,10 @@
 open:
-  - name: Threes Brewing
-    url: https://threesbrewing.com
-    instagram: https://www.instagram.com/threesbrewing/
-    hours: 2pm - 8pm
-    notes: Pick-up only
-    links:
-      - title: Menu
-        url: https://www.beermenus.com/places/41414-threes-franklin-kent
-      - title: Gift cards
-        url: https://shop.threesbrewing.com/collections/gift-card
+
+  - name: Broken Land
+    url: http://www.brokenlandbar.com
+    instagram: https://www.instagram.com/brokenlandbar/
+    hours: 5pm - 10pm, weekend 2pm - 9pm
+    notes: To-go cocktails and beer available; “order and grab right from the street”
     last_updated: 3/24
 
   - name: Di An Di
@@ -35,20 +31,116 @@ open:
     url: https://pauliegee.com/slice-shop/
     instagram: https://www.instagram.com/pauliegees_sliceshop/
     hours: 11am - 10:30pm
-    notes: Window pick-up and delivery available.
+    notes: Delivery and take-out available
     delivery:
       caviar: https://www.trycaviar.com/m/paulie-gees-slice-shop-10006
     last_updated: 3/24
 
+  - name: Peter Pan Donut
+    url: https://www.instagram.com/peterpandonut/
+    instagram: https://www.instagram.com/peterpandonut/
+    hours: 5am - 8pm
+    notes: To-go only
+    last_updated: 3/24
+
+  - name: Threes Brewing
+    url: https://threesbrewing.com
+    instagram: https://www.instagram.com/threesbrewing/
+    hours: 2pm - 8pm
+    notes: Pick-up only
+    links:
+      - title: Menu
+        url: https://www.beermenus.com/places/41414-threes-franklin-kent
+      - title: Gift cards
+        url: https://shop.threesbrewing.com/collections/gift-card
+    last_updated: 3/24
+
+  - name: Wanpaku
+    url: https://www.wanpakubk.com
+    instagram: https://instagram.com/wanpakubk 
+    hours: 12pm - 3:30pm, 5pm - 10pm
+    notes: Delivery and take-out available
+    delivery:
+      caviar: https://www.trycaviar.com/brooklyn-queens/wanpaku-9588
+      postmates: https://postmates.com/merchant/wanpaku-brooklyn
+      uber_eats: https://www.ubereats.com/en-US/new-york/food-delivery/wanpaku/V73R35otR9eVZCxk1f0xfQ/
+    last_updated: 3/24
+
 closed:
+  - name: 21 Greenpoint
+    instagram: https://www.instagram.com/21greenpoint/
+    url: https://www.21greenpoint.com
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/21-greenpoint-staff
+    last_updated: 3/23
+
+  - name: Achilles Heel
+    instagram: https://www.instagram.com/achillesheelbk/
+    url: http://achillesheelnyc.com
+    notes: Closed until further notice
+    links:
+      - title: Gift cards
+        url: https://shop.dinernyc.com/store/p10/Gift_Certificates.html
+      - url: https://www.gofundme.com/f/staff-of-achilles-heel-relief-support
+        title: Staff relief fund
+    last_updated: 3/23
+
+  - name: Anella
+    instagram: https://www.instagram.com/anellabk/
+    url: https://www.anellabrooklyn.com
+    notes: Closed until further notice; monitor Instagram for take-home meals
+    links:
+      - title: Gift cards
+        url: https://www.anellabrooklyn.com/new-products/copy-of-gift-card-3
+    last_updated: 3/23
+
+  - name: Cherry Point
+    instagram: https://www.instagram.com/cherrypointnyc/
+    url: https://www.cherrypointnyc.com
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/emergency-relief-funds-for-cherry-point-staff
+    last_updated: 3/20
+
+  - name: The Diamond Bar
+    instagram: https://www.instagram.com/diamondgpt/
+    url: https://www.thediamondbrooklyn.com
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/diamond-bartenders-assistance
+    last_updated: 3/24
+
   - name: Esme
     instagram: https://www.instagram.com/esmebk/
     url: https://www.esmebk.com
-    notes: Closed until further notice
+    notes: Closed until further notice; monitor Instagram for take-home meals
     links:
       - title: Gift cards
         url: https://www.esmebk.com/store/gift-cards
     last_updated: 3/19
+
+  - name: Five Leaves
+    url: https://fiveleavesny.com
+    instagram: https://www.instagram.com/fiveleavesny/
+    twitter: https://twitter.com/FiveLeavesNY
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/efyg4-five-leaves-employee-fund
+    last_updated: 3/24
+
+  - name: Le Fanfare
+    url: http://www.lefanfare.com
+    instagram: https://www.instagram.com/lefanfare/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/dzxdt-le-fanfare-team
+    last_updated: 3/24
 
   - name: Oxomoco
     url: https://www.oxomoconyc.com
@@ -59,6 +151,16 @@ closed:
         title: Gift cards
       - url: https://www.gofundme.com/f/oxomoco-employee-relief-fund
         title: Staff relief fund
+    last_updated: 3/24
+
+  - name: Paulie Gee’s
+    url: https://pauliegee.com/greenpoint/
+    notes: Closed until further notice
+    last_updated: 3/24
+
+  - name: Pencil Factory Bar
+    url: https://pencilfactorybar.com/pfhome.html
+    notes: Closed until further notice
     last_updated: 3/24
 
   - name: Ramona
