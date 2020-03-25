@@ -3,7 +3,7 @@ open:
   - name: Broken Land
     url: http://www.brokenlandbar.com
     instagram: https://www.instagram.com/brokenlandbar/
-    hours: 5pm - 10pm, weekend 2pm - 9pm
+    hours: 5pm - 10pm, weekends 2pm - 9pm
     notes: To-go cocktails and beer available; “order and grab right from the street”
     last_updated: 3/24
 
@@ -17,6 +17,17 @@ open:
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/support-for-the-dad-family
+    last_updated: 3/24
+
+  - name: Fornino
+    url: https://www.fornino.com
+    instagram: https://www.instagram.com/forninopizza/
+    hours: 12pm - 9pm
+    notes: Delivery and take-out available
+    delivery:
+      chownow: https://direct.chownow.com/order/13000/locations/18205
+      caviar: https://www.trycaviar.com/m/fornino-4571
+      seamless: https://www.seamless.com/menu/fornino-849-manhattan-ave-brooklyn/322833
     last_updated: 3/24
 
   - name: Greenpoint Beer
@@ -41,6 +52,18 @@ open:
     instagram: https://www.instagram.com/peterpandonut/
     hours: 5am - 8pm
     notes: To-go only
+    last_updated: 3/24
+
+  - name: Sauvage
+    url: https://sauvagewines.com
+    instagram: https://www.instagram.com/sauvage_nyc/
+    hours: 3pm - 7pm
+    notes: Pivoted to wine take-out & delivery. “Orders received by 3pm will receive free same-day delivery.”
+    links:
+      - title: Order from the Sauvage website
+        url: https://sauvagewines.com
+      - url: https://www.gofundme.com/f/friends-of-sauvage
+        title: Staff relief fund
     last_updated: 3/24
 
   - name: Threes Brewing
