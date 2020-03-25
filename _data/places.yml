@@ -38,6 +38,17 @@ open:
     phone: 347-725-3061
     last_updated: 3/24
 
+  - name: Greenpoint Fish & Lobster
+    url: https://greenpointfish.com
+    instagram: https://www.instagram.com/greenpointfish
+    hours: 12pm - 7pm Wed-Sun
+    notes: Wholesale fresh & frozen seafood available
+    phone: 718-349-0400
+    links:
+      - url: https://www.gofundme.com/f/greenpoint-fish-amp-lobster-co
+        title: Staff relief fund
+    last_updated: 3/24
+
   - name: Maman
     url: https://www.mamannyc.com
     instagram: https://www.instagram.com/_mamannyc_/
@@ -139,6 +150,15 @@ closed:
     links:
       - title: Staff relief fund
         url: https://www.gofundme.com/f/emergency-relief-funds-for-cherry-point-staff
+    last_updated: 3/20
+
+  - name: Chez Ma Tante
+    instagram: https://www.instagram.com/chez_ma_tante/
+    url: https://www.chezmatantenyc.com
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/chez-ma-tante-employee-fund
     last_updated: 3/20
 
   - name: The Diamond Bar
