@@ -7,6 +7,16 @@ open:
     notes: To-go cocktails and beer available; “order and grab right from the street”
     last_updated: 3/24
 
+  - name: Brouwerij Lane
+    url: https://www.beermenus.com/places/667-brouwerij-lane
+    instagram: https://www.instagram.com/brouwerijlane/
+    hours: 2pm - 8pm
+    notes: To-go beer bottles, cans, growlers
+    links:
+      - title: Beer menu
+        url: https://www.beermenus.com/places/667-brouwerij-lane
+    last_updated: 3/25
+
   - name: Di An Di
     url: https://www.diandi.nyc
     instagram: https://www.instagram.com/diandi.nyc/
@@ -138,6 +148,15 @@ closed:
       - title: Gift cards
         url: https://shop.dinernyc.com/store/p10/Gift_Certificates.html
       - url: https://www.gofundme.com/f/staff-of-achilles-heel-relief-support
+        title: Staff relief fund
+    last_updated: 3/23
+
+  - name: Alameda
+    instagram: https://www.instagram.com/alamedagreenpoint/
+    url: http://alamedanyc.com
+    notes: Closed until further notice
+    links:
+      - url: https://www.gofundme.com/f/alameda-staff-support
         title: Staff relief fund
     last_updated: 3/23
 
