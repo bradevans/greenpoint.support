@@ -40,6 +40,16 @@ open:
       seamless: https://www.seamless.com/menu/fornino-849-manhattan-ave-brooklyn/322833
     last_updated: 3/24
 
+  - name: Glasserie
+    url: https://www.glasserienyc.com
+    instagram: https://www.instagram.com/glasserienyc/
+    hours: 12pm - 8:30pm
+    notes: Take-out & delivery available, wine & booze & beer & eggs & chicken & lamb meatballs
+    phone: 718-389-0640
+    delivery:
+      square: https://glasserienyc.square.site
+    last_updated: 3/26
+
   - name: Greenpoint Beer
     url: https://www.greenpointbeer.com
     instagram: https://www.instagram.com/greenpoint.beer/
@@ -58,6 +68,26 @@ open:
       - url: https://www.gofundme.com/f/greenpoint-fish-amp-lobster-co
         title: Staff relief fund
     last_updated: 3/24
+
+  - name: Jungle Cafe
+    url: https://www.junglecafenyc.com
+    instagram: https://www.instagram.com/junglecafe_nyc/?hl=en
+    hours: 11:30am - 10:30pm
+    notes: Take-out & delivery available
+    phone: 347-987-4981
+    delivery:
+      seamless: https://www.seamless.com/menu/jungle-cafe-131-greenpoint-ave-brooklyn/301998
+    last_updated: 3/26
+
+  - name: Keg & Lantern
+    url: https://www.kegandlanternbrooklyn.com
+    instagram: https://www.instagram.com/kegandlantern/?hl=en
+    hours: 11am - 11pm
+    notes: Take-out & delivery available, 32oz beer cans, wine, cocktails, and food
+    phone: 718-389-5050
+    delivery:
+      seamless: https://www.seamless.com/menu/keg--lantern-brewing-company-97-nassau-ave-brooklyn/371420
+    last_updated: 3/26
 
   - name: Maman
     url: https://www.mamannyc.com
@@ -111,7 +141,7 @@ open:
     url: https://threesbrewing.com
     instagram: https://www.instagram.com/threesbrewing/
     hours: 2pm - 8pm
-    notes: Pick-up only
+    notes: Sidewalk pick-up
     links:
       - title: Menu
         url: https://www.beermenus.com/places/41414-threes-franklin-kent
