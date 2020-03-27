@@ -135,6 +135,27 @@ open:
     notes: To-go only
     last_updated: 3/24
 
+  - name: Pierozek
+    url: https://www.pierozekbrooklyn.com
+    instagram: https://www.instagram.com/pierozekbrooklyn/?hl=en
+    hours: 12pm - 8pm
+    notes: Delivery and take-out available
+    delivery:
+      seamless: https://www.seamless.com/menu/pierozek-592-manhattan-ave-brooklyn/1748130
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/pierozek/bVOVIQ8UR8KC3VXBOxo4tA
+    last_updated: 3/27
+
+  - name: Polka Dot
+    url: http://polkadotgreenpoint.com
+    instagram: https://www.instagram.com/polkadotgreenpoint/
+    hours: 9am - 7pm
+    notes: Delivery and take-out available
+    delivery:
+      seamless: https://www.seamless.com/menu/polka-dot-726-manhattan-ave-brooklyn/446930
+      postmates: https://postmates.com/merchant/polka-dot-brooklyn
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/polka-dot/CzbCQppGRLOShbkyREyhTA
+    last_updated: 3/27
+
   - name: Sauvage
     url: https://sauvagewines.com
     instagram: https://www.instagram.com/sauvage_nyc/
