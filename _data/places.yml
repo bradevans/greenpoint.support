@@ -86,6 +86,16 @@ open:
       seamless: https://www.seamless.com/menu/jungle-cafe-131-greenpoint-ave-brooklyn/301998
     last_updated: 3/26
 
+  - name: Karczma
+    url: http://karczmabrooklyn.com
+    instagram: https://www.instagram.com/karczma_brooklyn/?hl=en
+    notes: Now available on Grubhub & Seamless! Take-out & delivery available
+    hours: 12pm - 10:30pm
+    phone: (718) 349-1744
+    delivery:
+      seamless: https://www.seamless.com/menu/karczma-polish-restaurant-136-greenpoint-ave-brooklyn/2034552
+    last_updated: 3/27
+
   - name: Keg & Lantern
     url: https://www.kegandlanternbrooklyn.com
     instagram: https://www.instagram.com/kegandlantern/?hl=en
