@@ -3,9 +3,9 @@ open:
   - name: Broken Land
     url: http://www.brokenlandbar.com
     instagram: https://www.instagram.com/brokenlandbar/
-    hours: 5pm - 10pm, weekends 2pm - 9pm
-    notes: To-go cocktails and beer available; “order and grab right from the street”
-    last_updated: 3/24
+    hours: 5pm - 8pm, weekends 2pm - 9pm
+    notes: To-go cocktails, beer, and wine available; “order and grab right from the street”
+    last_updated: 4/2
 
   - name: Brouwerij Lane
     url: https://www.beermenus.com/places/667-brouwerij-lane
@@ -16,6 +16,16 @@ open:
       - title: Beer menu
         url: https://www.beermenus.com/places/667-brouwerij-lane
     last_updated: 3/25
+
+  - name: Cafe Alula
+    url: https://www.alulabrooklyn.com
+    instagram: https://www.instagram.com/cafealula/?hl=en
+    hours: 9am - 8pm
+    notes: Full menu available for take-out and delivery
+    delivery:
+      chownow: https://direct.chownow.com/order/13709/locations/19219
+      caviar: https://www.trycaviar.com/m/cafe-alula--10370
+    last_updated: 4/2
 
   - name: Di An Di
     url: https://www.diandi.nyc
@@ -35,17 +45,6 @@ open:
     hours: 2pm - 8pm Fri - Sun 
     notes: Large format cocktails, wine, beer available for pick-up on weekends, check Instagram for details
     last_updated: 3/25
-
-  - name: Fornino
-    url: https://www.fornino.com
-    instagram: https://www.instagram.com/forninopizza/
-    hours: 12pm - 9pm
-    notes: Delivery and take-out available
-    delivery:
-      chownow: https://direct.chownow.com/order/13000/locations/18205
-      caviar: https://www.trycaviar.com/m/fornino-4571
-      seamless: https://www.seamless.com/menu/fornino-849-manhattan-ave-brooklyn/322833
-    last_updated: 3/24
 
   - name: Glasserie
     url: https://www.glasserienyc.com
@@ -105,19 +104,6 @@ open:
     delivery:
       seamless: https://www.seamless.com/menu/keg--lantern-brewing-company-97-nassau-ave-brooklyn/371420
     last_updated: 3/26
-
-  - name: Maman
-    url: https://www.mamannyc.com
-    instagram: https://www.instagram.com/_mamannyc_/
-    phone: (347) 689-9195
-    hours: 8am - 3pm
-    notes: Take-out & delivery available for a limited time
-    links:
-      - title: Gift cards
-        url: https://squareup.com/gift/C1DAHQ68VJBQ8/order
-      - url: https://www.mamannyc.com/checkout/donate?donatePageId=5e728806a28bbd060ea6698d
-        title: Staff relief fund
-    last_updated: 3/24
 
   - name: Paulie Gee’s Slice Shop
     url: https://pauliegee.com/slice-shop/
@@ -292,6 +278,12 @@ closed:
         url: https://www.gofundme.com/f/efyg4-five-leaves-employee-fund
     last_updated: 3/24
 
+  - name: Fornino
+    url: https://www.fornino.com
+    instagram: https://www.instagram.com/forninopizza/
+    notes: Closed until further notice
+    last_updated: 4/2
+
   - name: Goldie’s
     url: https://www.instagram.com/goldiesbrooklyn
     instagram: https://www.instagram.com/goldiesbrooklyn
@@ -318,6 +310,17 @@ closed:
       - title: Staff relief fund
         url: https://venmo.com/code?user_id=1698369093238784988
     last_updated: 3/24
+
+  - name: Maman
+    url: https://www.mamannyc.com
+    instagram: https://www.instagram.com/_mamannyc_/
+    notes: Closed until further notice
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/C1DAHQ68VJBQ8/order
+      - url: https://www.mamannyc.com/checkout/donate?donatePageId=5e728806a28bbd060ea6698d
+        title: Staff relief fund
+    last_updated: 4/2
 
   - name: Oxomoco
     url: https://www.oxomoconyc.com
